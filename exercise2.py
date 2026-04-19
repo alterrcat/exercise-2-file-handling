@@ -1,3 +1,5 @@
+# Exercise 2 - File Handling
+
 try:
     
     note1 = input("Enter a short note: ")
